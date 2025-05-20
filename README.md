@@ -16,4 +16,3 @@ I’m developing a full-stack social media application.
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RishabYadav47) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/RishabYadav) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
