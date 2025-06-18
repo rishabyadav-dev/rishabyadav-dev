@@ -3,10 +3,11 @@ I'm a passionate Full Stack Developer with a strong interest in building innovat
 
 # 📊 GitHub Stats:
 <!-- GitHub Stats -->
-[![Detailed GitHub Stats](https://github-readme-stats.vercel.app/api?username=elitebot47&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=My%20Stats&hide=prs,issues)](https://github.com/elitebot47)<!-- GitHub Streak -->
-     ![Streak](https://your-vercel-app.vercel.app/?user=elitebot47)
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitebot47&theme=dark&hide_border=false&layout=compact)
+<div align="center">
+[![Detailed GitHub Stats](https://github-readme-stats.vercel.app/api?username=elitebot47&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=false&hide_border=true)](https://github.com/elitebot47)
+[![GitHub Streak](https://streak-stats.demolab.com?user=elitebot47&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/elitebot47)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elitebot47&theme=dark&hide_border=true&layout=compact&exclude_repo=deprecated)](https://github.com/elitebot47)
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishab-yadav-9785b5228/)
