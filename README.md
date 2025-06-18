@@ -3,7 +3,7 @@ I'm a passionate Full Stack Developer with a strong interest in building innovat
 
 # 📊 GitHub Stats:
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elitebot47&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elitebot47&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_title=false)
 <!-- GitHub Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=elitebot47&theme=dark&hide_border=false)
 <!-- Top Languages -->
