@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Full Stack Developer with a strong interest in building innovative solutions and exploring new ideas. My journey in tech has led me to work on various projects, and I'm always eager to learn and grow.
+I'm a full-stack developer, and I love building cool stuff and trying out new ideas. I've worked on a bunch of projects, and I have a little obsession with Next.js..
 
 # 📊 GitHub Stats:
 <!-- GitHub Stats -->
