@@ -6,10 +6,6 @@ I'm a full-stack developer, and I love building cool stuff and trying out new id
 [![Detailed GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabyadav-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=false&hide_border=true)](https://github.com/rishabyadav-dev)
    [![GitHub Streak](https://streak-stats.demolab.com?user=rishabyadav-dev&theme=dark&v=2)](https://github.com/rishabyadav-dev)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabyadav-dev&theme=dark&hide_border=true&layout=compact&exclude_repo=deprecated)](https://github.com/rishabyadav-dev)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabyadav-dev)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rishabyadav_dev)
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
